@@ -63,14 +63,16 @@ The outputs are then combined and summarized into **three possible health issues
     pip install -r requirements.txt
     ```
 3. **Set up your local backend model server: (optional)**
-    - Install Ollama
+   ```bash
+    # Install Ollama
     brew install ollama  # Mac
     # Jalankan Ollama server
     ollama serve
     # Pull model Llama
     ollama pull llama3.2
+   ```
     
-4. **Run the system:** `python main.py`
+5. **Run the system:** `python main.py`
 ---
 
 ## 🔮 Future Enhancements
