@@ -62,12 +62,14 @@ The outputs are then combined and summarized into **three possible health issues
     source venv/bin/activate  # On Windows: venv\Scripts\activate
     pip install -r requirements.txt
     ```
-3. **Set up your API credentials:**
-    - Create a file named apikey.env in the project root.
-    - Add your OpenAI (or other LLM provider) credentials:
-    ```bash
-    OPENAI_API_KEY=your_api_key_here
-    ```
+3. **Set up your local backend model server: (optional)**
+    - Install Ollama
+    brew install ollama  # Mac
+    # Jalankan Ollama server
+    ollama serve
+    # Pull model Llama
+    ollama pull llama3.2
+    
 4. **Run the system:** `python main.py`
 ---
 
