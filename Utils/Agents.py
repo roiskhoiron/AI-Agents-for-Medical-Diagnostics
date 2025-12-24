@@ -1,5 +1,5 @@
 from langchain_core.prompts import PromptTemplate
-from langchain_openai import ChatOpenAI
+from langchain_ollama import ChatOllama
 
 class Agent:
     def __init__(self, medical_report=None, role=None, extra_info=None):
@@ -9,7 +9,7 @@ class Agent:
         # Initialize the prompt based on role and other info
         self.prompt_template = self.create_prompt_template()
         # Initialize the model
-        self.model = ChatOpenAI(temperature=0, model="gpt-5")
+        self.model = ChatOllama(temperature=0, model="llama3.2")
 
     def create_prompt_template(self):
         if self.role == "MultidisciplinaryTeam":

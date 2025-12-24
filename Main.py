@@ -11,7 +11,7 @@ import json, os
 load_dotenv(dotenv_path='apikey.env')
 
 # read the medical report
-with open("Medical Reports\Medical Rerort - Michael Johnson - Panic Attack Disorder.txt", "r") as file:
+with open("Medical Reports/Medical Rerort - Michael Johnson - Panic Attack Disorder.txt", "r") as file:
     medical_report = file.read()
 
 
@@ -43,6 +43,12 @@ team_agent = MultidisciplinaryTeam(
 
 # Run the MultidisciplinaryTeam agent to generate the final diagnosis
 final_diagnosis = team_agent.run()
+
+# Check if diagnosis was generated successfully
+if final_diagnosis is None:
+    print("Error: Unable to generate diagnosis. Please check your API key and quota.")
+    exit(1)
+
 final_diagnosis_text = "### Final Diagnosis:\n\n" + final_diagnosis
 txt_output_path = "results/final_diagnosis.txt"
 

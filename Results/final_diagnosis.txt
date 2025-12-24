@@ -1,10 +1,11 @@
 ### Final Diagnosis:
 
-- Panic disorder with hyperventilation/dysfunctional breathing
-  - Reason: Abrupt 10–20 minute episodes of palpitations, chest tightness, dyspnea, diaphoresis, and “impending doom” with a normal cardiac workup; history of anxiety; pulmonology notes panic-related hyperventilation/dysfunctional breathing.
+Based on the reports from the Cardiologist, Psychologist, and Pulmonologist, here are 3 possible health issues of the patient:
 
-- Intermittent cardiac arrhythmia (paroxysmal SVT or symptomatic ectopy; brief AF less likely but possible)
-  - Reason: Palpitations/skipped beats with occasional PVCs documented; a 24-hour Holter can miss brief paroxysms; cardiology recommends extended ambulatory monitoring and consumer ECG capture; symptoms may be provoked by stress/caffeine or posture (IST/POTS also considered).
+â€¢ **Anxiety-Related Cardiac Symptoms**: The patient's history of anxiety disorder, use of benzodiazepines, and recent episodes of cardiac symptoms such as palpitations, shortness of breath, and chest pain suggest that his anxiety may be contributing to his cardiac issues. This is supported by the Cardiologist's findings of anxiety-related cardiac symptoms and the Psychologist's diagnosis of anxiety disorder.
 
-- GERD with esophageal spasm and reflux-related laryngeal/bronchospasm
-  - Reason: GERD/esophageal spasm can mimic angina and trigger chest tightness/dyspnea; pulmonology notes reflux-induced laryngospasm/bronchospasm; plans include optimized PPI timing, possible BID trial, alginate, and ENT evaluation for laryngopharyngeal reflux/inducible laryngeal obstruction.
+â€¢ **Panic Attack-Related Respiratory Issues**: The patient's description of a feeling of impending doom during episodes, which is consistent with panic attacks, may be contributing to his respiratory symptoms such as shortness of breath, dizziness, sweating, and chest pain. This is supported by the Pulmonologist's findings of possible panic attack-related respiratory issues.
+
+â€¢ **Gastroesophageal Reflux Disease (GERD)**: The patient's history of GERD and use of PPIs may be contributing to his symptoms such as chest pain and discomfort due to stomach acid reflux into the esophagus. This is supported by the Cardiologist's findings of GERD as a potential cause of his cardiac symptoms.
+
+These three possible health issues are interconnected, with anxiety potentially exacerbating both cardiac and respiratory symptoms, and GERD contributing to cardiac symptoms. A comprehensive treatment plan that addresses all these aspects will be necessary to effectively manage the patient's condition.
